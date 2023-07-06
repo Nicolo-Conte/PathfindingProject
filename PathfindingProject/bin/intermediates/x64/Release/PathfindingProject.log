@@ -1,0 +1,60 @@
+﻿  Agent.cpp
+  AgentManager.cpp
+  Main.cpp
+  PathManager.cpp
+  Node.cpp
+  SFMLRenderer.cpp
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(31,60): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(31,44): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(185,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '_Rep'
+          with
+          [
+              _Rep=__int64
+          ]
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(185,12): message : consider using '%lld' in the format string
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(185,12): message : consider using '%Id' in the format string
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(185,12): message : consider using '%I64d' in the format string
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(308,114): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(308,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(317,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(326,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(434,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(434,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\University\Year3\Block A\Week 1\PathfindingProject\PathfindingProject\src\SFMLRenderer.cpp(73): warning C4715: 'SFMLRenderer::ApplyAgorithm': not all control paths return a value
+  All 2107 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PathfindingProject.vcxproj -> D:\University\Year3\Block A\Week 1\PathfindingProject\bin\x64\Release\PathfindingProject.exe
